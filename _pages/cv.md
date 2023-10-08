@@ -24,7 +24,8 @@ Education
     * Dean's Honours List (2018-2020)
     * Patrick S C Poon Scholarship in Actuarial Science (2018-2022)
     * HKU Foundation Entrance Scholarship (2018-2022)
-
+  * Semester outbound exchange student (Spring 2022)
+    * University of Toronto
 
 Experience
 ======
@@ -59,22 +60,14 @@ Experience
 
 * Assistant to District Councillor, summer 2018
   * Sha Tin District, Hong Kong
-  
-Skills
-======
-* Software
-  * Microsoft Office, Photoshop, Lightroom, Premiere Pro
-* Programming
-  * R, Python, LaTeX, MATLAB
-* Languages
-  * Cantonese (native), English (fluent), Mandarin (fluent), Japanese (elementary)
 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
+Professional Qualifications
+======
+* Society of Actuaries
+  * Exam P, Exam FM, Exam SRM, Exam IFM
+* Actuarial Society of Hong Kong
+  * Certificate in Hong Kong Insurance Markets and Regulations (Life Insurance)
+
 Service and leadership
 ======
 * Secretary, Statistics Graduate Student Union, 2022-23
@@ -85,3 +78,12 @@ Service and leadership
   * University of Hong Kong
 * Mentor, Academy for the Talented, 2019-20
   * University of Hong Kong
+
+Skills
+======
+* Software
+  * Microsoft Office, Photoshop, Lightroom, Premiere Pro
+* Programming
+  * R, Python, LaTeX, MATLAB
+* Languages
+  * Cantonese (native), English (fluent), Mandarin (fluent), Japanese (elementary)
