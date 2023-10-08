@@ -11,49 +11,77 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy in Statistics
+  * University of Toronto
+  * Concentration in Actuarial Science
+* Bachelor of Science in Actuarial Science, 2023
+  * University of Hong Kong
+  * Minor in Mathematics
+  * Common Core Transdisciplinary Minor in Sustaining Cities, Cultures, and the Earth
+  * First class honours
+  * Awards:
+    * HKU Worldwide Undergraduate Student Exchange Scholarships (2022)
+    * Dean's Honours List (2018-2020)
+    * Patrick S C Poon Scholarship in Actuarial Science (2018-2022)
+    * HKU Foundation Entrance Scholarship (2018-2022)
 
-Work experience
+
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant
+  * Department of Statistical Sciences, University of Toronto
+  * Courses:
+    * ACT240 Mathematics of Investment and Credit (Fall 2023)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Peer Tutor
+  * Department of Statistics and Actuarial Science, University of Hong Kong
+  * Courses:
+    * STAT2902 Financial Mathematics (Spring 2023)
+    * STAT3951 Further topics in contingencies (Fall 2022)
+
+* Student Research Assistant, summer 2022
+  * Department of Statistics and Actuarial Science, University of Hong Kong
+  * Studied optimal (re)insurance
+
+* Undergraduate Research Fellow, 2021-22
+  * Department of Statistics and Actuarial Science, University of Hong Kong
+  * Topic: The Littlewood–Offord problem and invertibility of random matrices
+  * Topic: Limiting properties of Erdős–Rényi graphs
+
+* Actuarial Intern, 2021
+  * Reinsurance Group of America, Hong Kong office
+
+* Actuarial Intern, 2020
+  * Prudential Corporation Asia, Hong Kong office
+
+* Admission Assistant, summer 2019
+  * HKUSPACE PLK Stanley Ho Community College
+
+* Assistant to District Councillor, summer 2018
+  * Sha Tin District, Hong Kong
   
 Skills
 ======
-* Skill 1
+* Software
+  * Microsoft Office, Photoshop, Lightroom, Premiere Pro
+* Programming
+  * R, Python, LaTeX, MATLAB
+* Languages
+  * Cantonese (native), English (fluent), Mandarin (fluent), Japanese (elementary)
+
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Secretary, Statistics Graduate Student Union, 2022-23
+  * University of Toronto
+* Student Peer Adviser, Faculty of Science, 2021-23
+  * University of Hong Kong
+* Student Induction Instructor, Centre of Development and Resources for Students, 2019-20, 2021-22
+  * University of Hong Kong
+* Mentor, Academy for the Talented, 2019-20
+  * University of Hong Kong
