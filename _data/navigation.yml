@@ -2,7 +2,7 @@
 main:  
 
   - title: "About"
-    url: /more-about/
+    url: /moreabout/
 
   - title: "CV"
     url: /cv/
