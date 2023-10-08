@@ -2,10 +2,10 @@
 main:  
 
   - title: "About"
-    url: /moreabout.html
+    url: /moreabout/
 
   - title: "CV"
-    url: /cv.html
+    url: /cv/
     
   - title: "Research Group"
     url: https://actsci.utstat.utoronto.ca/
