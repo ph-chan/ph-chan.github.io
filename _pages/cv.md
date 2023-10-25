@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy in Statistics
+* [Doctor of Philosophy in Statistics](https://www.statistics.utoronto.ca/graduate/phd-program-requirements)
   * University of Toronto
   * Concentration in Actuarial Science
-* Bachelor of Science in Actuarial Science, 2023
+* [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/as.php), 2023
   * University of Hong Kong
   * Minor in Mathematics
   * Common Core Transdisciplinary Minor in Sustaining Cities, Cultures, and the Earth
@@ -30,14 +30,14 @@ Education
 Experience
 ======
 * Teaching Assistant
-  * Department of Statistical Sciences, University of Toronto
+  * [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/)
   * Courses:
     * ACT240 Mathematics of Investment and Credit (Fall 2023)
 
 * Student Co-Investigator
-  * Department of Statistics and Actuarial Science, University of Hong Kong
+  * [Department of Statistics and Actuarial Science, University of Hong Kong](https://saasweb.hku.hk/)
   * Teaching Development Grant Project
-  * Topic: Building Integrated Case Studies for Quantitative Disciplines as Problem-based Learning
+  * Topic: [Building Integrated Case Studies for Quantitative Disciplines as Problem-based Learning](https://tdg.hku.hk/hub/#/project/64ca1cbfcccd9f06ce5fa3c5)
 
 * Peer Tutor
   * Department of Statistics and Actuarial Science, University of Hong Kong
@@ -49,7 +49,7 @@ Experience
   * Department of Statistics and Actuarial Science, University of Hong Kong
   * Studied optimal (re)insurance
 
-* Undergraduate Research Fellow, 2021-22
+* [Undergraduate Research Fellow](https://tl.hku.hk/urfp/), 2021-22
   * Department of Statistics and Actuarial Science, University of Hong Kong
   * Topic: The Littlewood–Offord problem and invertibility of random matrices
   * Topic: Limiting properties of Erdős–Rényi graphs
@@ -68,20 +68,20 @@ Experience
 
 Professional Qualifications
 ======
-* Society of Actuaries
+* [Society of Actuaries](https://www.soa.org/)
   * Exam P, Exam FM, Exam SRM, Exam IFM
-* Actuarial Society of Hong Kong
+* [Actuarial Society of Hong Kong](https://www.actuaries.org.hk/)
   * Certificate in Hong Kong Insurance Markets and Regulations (Life Insurance)
 
 Service and Leadership
 ======
-* Secretary, Statistics Graduate Student Union, 2022-23
+* Secretary, [Statistics Graduate Student Union](https://sgsu-uoft.github.io/), 2022-23
   * University of Toronto
-* Student Peer Adviser, Faculty of Science, 2021-23
+* [Student Peer Adviser, Faculty of Science](https://www.scifac.hku.hk/current/ug/academic/aa), 2021-23
   * University of Hong Kong
-* Student Induction Instructor, Centre of Development and Resources for Students, 2019-20, 2021-22
+* [Student Induction Instructor, Centre of Development and Resources for Students](https://w2.cedars.hku.hk/c/induction/), 2019-20, 2021-22
   * University of Hong Kong
-* Mentor, Academy for the Talented, 2019-20
+* Mentor, [Academy for the Talented](https://talented.hku.hk/), 2019-20
   * University of Hong Kong
 
 Skills
