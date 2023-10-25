@@ -12,7 +12,7 @@ More about me...
 * Sports
   * Soccer
     * My favourite sport is soccer (football). I started watching it since 2007. My favourite teams are Arsenal (in England) and South China Athletic Association (SCAA, in Hong Kong). Sadly the latter no longer plays in professional soccer leagues since 2017.
-    * I also play soccer for leisure. I usually operates at center back, right back or defensive midfield, but my favourite position is on the wings.
+    * I also play soccer for leisure. I usually operate at center back, right back or defensive midfield, but my favourite position is on the wings.
   * Badminton
     * I am a bad badminton player, but I do try to play badminton regularly.
   * Baseball

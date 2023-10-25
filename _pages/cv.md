@@ -22,7 +22,7 @@ Education
   * Awards:
     * HKU Worldwide Undergraduate Student Exchange Scholarships (2022)
     * Dean's Honours List (2018-2020)
-    * Patrick S C Poon Scholarship in Actuarial Science (2018-2022)
+    * Dr Patrick S C Poon Scholarship in Actuarial Science (2018-2022)
     * HKU Foundation Entrance Scholarship (2018-2022)
   * Semester outbound exchange student (Spring 2022)
     * University of Toronto
@@ -33,6 +33,11 @@ Experience
   * Department of Statistical Sciences, University of Toronto
   * Courses:
     * ACT240 Mathematics of Investment and Credit (Fall 2023)
+
+* Student Co-Investigator
+  * Department of Statistics and Actuarial Science, University of Hong Kong
+  * Teaching Development Grant Project
+  * Topic: Building Integrated Case Studies for Quantitative Disciplines as Problem-based Learning
 
 * Peer Tutor
   * Department of Statistics and Actuarial Science, University of Hong Kong
@@ -68,7 +73,7 @@ Professional Qualifications
 * Actuarial Society of Hong Kong
   * Certificate in Hong Kong Insurance Markets and Regulations (Life Insurance)
 
-Service and leadership
+Service and Leadership
 ======
 * Secretary, Statistics Graduate Student Union, 2022-23
   * University of Toronto
