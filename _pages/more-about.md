@@ -23,7 +23,7 @@ More about me...
 
 * Photography
   * I have only used SONY APS-C cameras.
-  * I enjoy taking photos of animals, particularly birds, although I do not have the optimal lens to do so.
+  * I enjoy taking photos of animals, particularly birds.
   * I also enjoy taking scenic pictures whenever I travel.
 
 * Anime

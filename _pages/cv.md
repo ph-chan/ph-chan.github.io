@@ -32,7 +32,10 @@ Experience
 * Teaching Assistant
   * [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/)
   * Courses:
-    * ACT240 Mathematics of Investment and Credit (Fall 2023)
+    * ACT240 Mathematics of Investment and Credit (Fall 2023, Fall 2024)
+    * ACT245 Financial Principles for Actuarial Science I (Summer 2024)
+    * STA220 The Practice of Statistics I  (Spring 2024, Fall 2024)
+    * STA255 Statistical Theory (Spring 2024)
 
 * Student Co-Investigator
   * [Department of Statistics and Actuarial Science, University of Hong Kong](https://saasweb.hku.hk/)
@@ -69,7 +72,7 @@ Experience
 Professional Qualifications
 ======
 * [Society of Actuaries](https://www.soa.org/)
-  * Exam P, Exam FM, Exam SRM, Exam IFM
+  * Exam P, Exam FM, Exam SRM, Exam IFM, Exam FAM, Exam PA
 * [Actuarial Society of Hong Kong](https://www.actuaries.org.hk/)
   * Certificate in Hong Kong Insurance Markets and Regulations (Life Insurance)
 
