@@ -35,7 +35,10 @@ Experience
     * ACT240 Mathematics of Investment and Credit (Fall 2023, Fall 2024)
     * ACT245 Financial Principles for Actuarial Science I (Summer 2024)
     * STA220 The Practice of Statistics I  (Spring 2024, Fall 2024)
+    * STA221 The Practice of Statistics II (Spring 2025)
     * STA255 Statistical Theory (Spring 2024)
+    * STA2536 Data Science for Risk Modelling (Fall 2024)
+    * STA2540 Insurance Risk Management (Spring 2025)
 
 * Student Co-Investigator
   * [Department of Statistics and Actuarial Science, University of Hong Kong](https://saasweb.hku.hk/)
@@ -72,13 +75,15 @@ Experience
 Professional Qualifications
 ======
 * [Society of Actuaries](https://www.soa.org/)
-  * Exam P, Exam FM, Exam SRM, Exam IFM, Exam FAM, Exam PA
+  * Exam P, Exam FM, Exam SRM, Exam IFM, Exam FAM, Exam PA, Exam ASTAM
 * [Actuarial Society of Hong Kong](https://www.actuaries.org.hk/)
   * Certificate in Hong Kong Insurance Markets and Regulations (Life Insurance)
 
 Service and Leadership
 ======
-* Secretary, [Statistics Graduate Student Union](https://sgsu-uoft.github.io/), 2022-23
+* Treasurer, [Statistics Graduate Student Union](https://sgsu-uoft.github.io/), 2024-25
+  * University of Toronto
+* Secretary, [Statistics Graduate Student Union](https://sgsu-uoft.github.io/), 2023-24
   * University of Toronto
 * [Student Peer Adviser, Faculty of Science](https://www.scifac.hku.hk/current/ug/academic/aa), 2021-23
   * University of Hong Kong

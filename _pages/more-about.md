@@ -22,7 +22,7 @@ More about me...
   * ... and most popular sports!
 
 * Photography
-  * I have only used SONY APS-C cameras.
+  * I use SONY APS-C cameras.
   * I enjoy taking photos of animals, particularly birds.
   * I also enjoy taking scenic pictures whenever I travel.
 
