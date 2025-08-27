@@ -37,7 +37,8 @@ Experience
     * STA220 The Practice of Statistics I  (Spring 2024, Fall 2024)
     * STA221 The Practice of Statistics II (Spring 2025)
     * STA255 Statistical Theory (Spring 2024)
-    * STA2536 Data Science for Risk Modelling (Fall 2024)
+    * STA2535 Life Insurance Mathematics (Fall 2025)
+    * STA2536 Data Science for Risk Modelling (Fall 2024, Fall 2025)
     * STA2540 Insurance Risk Management (Spring 2025)
 
 * Student Co-Investigator
