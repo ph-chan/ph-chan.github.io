@@ -29,3 +29,5 @@ More about me...
 * Anime
   * Strictly speaking, anime, manga, games, and light novels
   * One of my favourites is [Sword Art Online (ソードアート・オンライン)](https://www.swordart-online.net/)
+
+<iframe src="https://visitedplaces.com/embed/?map=world&projection=geoNaturalEarth1&theme=dark-green&water=1&graticule=0&names=1&duration=2000&placeduration=100&slider=0&autoplay=0&autozoom=none&autostep=0&home=CA&places=~DE_CA.daaa44_US_CN_HK_JP_MO_MY_KH_KR_SG_TW" style="width: 100%; height: 600px;"></iframe>
