@@ -33,13 +33,15 @@ Experience
   * [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/)
   * Courses:
     * ACT240 Mathematics of Investment and Credit (Fall 2023, Fall 2024)
-    * ACT245 Financial Principles for Actuarial Science I (Summer 2024)
-    * STA220 The Practice of Statistics I  (Spring 2024, Fall 2024)
-    * STA221 The Practice of Statistics II (Spring 2025)
-    * STA255 Statistical Theory (Spring 2024)
+    * ACT245 Financial Principles for Actuarial Science I (Summer 2024, Winter 2026)
+    * ACT247 Introductory Life Contingencies (Winter 2026)
+    * STA220 The Practice of Statistics I  (Winter 2024, Fall 2024)
+    * STA221 The Practice of Statistics II (Winter 2025)
+    * STA255 Statistical Theory (Winter 2024)
     * STA2535 Life Insurance Mathematics (Fall 2025)
     * STA2536 Data Science for Risk Modelling (Fall 2024, Fall 2025)
-    * STA2540 Insurance Risk Management (Spring 2025)
+    * STA2540 Insurance Risk Management (Winter 2025, Winter 2026)
+    * STA2546 Data Analytics in Practice (Winter 2026)
 
 * Student Co-Investigator
   * [Department of Statistics and Actuarial Science, University of Hong Kong](https://saasweb.hku.hk/)
@@ -67,12 +69,6 @@ Experience
 * Actuarial Intern, 2020
   * Prudential Corporation Asia, Hong Kong office
 
-* Admission Assistant, summer 2019
-  * HKUSPACE PLK Stanley Ho Community College
-
-* Assistant to District Councillor, summer 2018
-  * Sha Tin District, Hong Kong
-
 Professional Qualifications
 ======
 * [Society of Actuaries](https://www.soa.org/)
@@ -82,6 +78,8 @@ Professional Qualifications
 
 Service and Leadership
 ======
+* Sports Representative, [Statistics Graduate Student Union](https://sgsu-uoft.github.io/), 2025-26
+  * University of Toronto
 * Treasurer, [Statistics Graduate Student Union](https://sgsu-uoft.github.io/), 2024-25
   * University of Toronto
 * Secretary, [Statistics Graduate Student Union](https://sgsu-uoft.github.io/), 2023-24
